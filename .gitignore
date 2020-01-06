@@ -3,3 +3,6 @@ songs*
 Songs*
 Pip*
 .idea
+settings.py
+*.json
+*.sh
