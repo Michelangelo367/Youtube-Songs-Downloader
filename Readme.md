@@ -4,7 +4,6 @@ This mini project, is all about making my life a bit easier.
 
 given a list of songs (title/artist) in a file, using yoytube DATA API, for search the best result.\
 with this result - fetching the videoID, and download it with youtube-dl package.\
-
 after downloading the file "ffmpeg" will convert the file to mp3 (and remove the original file).
 
 ### requirements:
